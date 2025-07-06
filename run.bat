@@ -1,1 +1,1 @@
-START "" javaw -Dfile.encoding=MS950 -cp .;* Main
+START "" javaw -Dfile.encoding=MS950 -cp * Main
